@@ -1,4 +1,4 @@
-class Main {
+/*class Main {
     private static void main (String [] args){
         //double age = 19.8;
         //int number3 = (int)age;
@@ -21,7 +21,7 @@ class Stringmodification{
         int age = 26;
         double ibGrade = 29;
         String formatted = String.format ("My name is %s. I am from %s. I am %d. My IB grade is %f", name, country, age, ibGrade);
-        //System.out.println(formatted);
+        System.out.println(formatted);
         //System.out.println(formatted.length());
         //System.out.println(formatted.isEmpty());
         //System.out.println(name.toUpperCase().toLowerCase());
@@ -34,3 +34,4 @@ class Stringmodification{
 
     }
 }
+ */
