@@ -19,5 +19,6 @@ class arrays {
 
         System.out.println(Arrays.toString(integers));
         System.out.println(foundItemIndex2);
+        System.out.println(copyOfIntegers);
     }
 }
